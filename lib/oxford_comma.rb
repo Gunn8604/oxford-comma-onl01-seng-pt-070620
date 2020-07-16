@@ -1,3 +1,3 @@
 def oxford_comma(array)
-|fruit| << [].join
+|fruit| << fruit.join
 end
