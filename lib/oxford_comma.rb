@@ -5,4 +5,6 @@ end
 if array.size == 1 
   return "#{array[0]}"
 end
+if array.size == 3
+  return "#{array[0], "
 end
